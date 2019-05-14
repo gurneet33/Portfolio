@@ -199,3 +199,7 @@ a:focus,
 a:active {
   color: rgb(23, 95, 95);
 }
+
+.project-card{
+  padding: 10px;
+}
